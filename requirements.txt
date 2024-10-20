@@ -1,6 +1,4 @@
 flask
-rembg
-pillow
 gunicorn
 pandas
 numpy
